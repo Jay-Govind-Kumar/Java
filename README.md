@@ -11,3 +11,8 @@ public class HelloWorld {
     }
 }
 ```
+
+## Daily Logs 📝
+
+> ### Day 1 - [Jump to 📂](./01_Basics/_README.md)
+- Learned about `Variables` and `Data types` in Java.
