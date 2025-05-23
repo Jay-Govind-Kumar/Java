@@ -16,3 +16,6 @@ public class HelloWorld {
 
 > ### Day 1 - [Jump to 📂](./01_Basics/_README.md)
 - Learned about `Variables` and `Data types` in Java.
+
+> ### Day 2 - [Jump to 📂](./02_Operators/_README.md)
+- Learned about `Operators` in Java.
