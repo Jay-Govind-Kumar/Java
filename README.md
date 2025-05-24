@@ -19,3 +19,6 @@ public class HelloWorld {
 
 > ### Day 2 - [Jump to 📂](./02_Operators/_README.md)
 - Learned about `Operators` in Java.
+
+> ### Day 3 - [Jump to 📂](./03_Conditionals/_README.md)
+- Learned about `Conditionals` in Java.
