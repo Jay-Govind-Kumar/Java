@@ -1,6 +1,6 @@
 <h1 align="center">Day 2</h1>
 
-Operators in Java
+- `Operators` in Java
 
 1. Arithmetic Operators
     a) Unary Operators

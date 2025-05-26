@@ -1,3 +1,5 @@
+<h1 align="center">Day 3</h1>
+
 Conditional Statements in Java
 
 1. if else

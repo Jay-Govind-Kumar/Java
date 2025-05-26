@@ -1,6 +1,6 @@
 <h1 align="center">Day 1</h1>
 
-Learned about `Variables` and `Data types` in Java.
+- `Variables` and `Data types` in Java.
 
 - Practiced declaring variables and initializing them with different data types (`int`, `double`, `String`, etc).
 
