@@ -22,3 +22,6 @@ public class HelloWorld {
 
 > ### Day 3 - [Jump to 📂](./03_Conditionals/_README.md)
 - Learned about `Conditionals` in Java.
+
+> ### Day 4 - [Jump to 📂](./04_Loops/_README.md)
+- Learned about `Looping Statements` in Java.
