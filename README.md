@@ -25,3 +25,6 @@ public class HelloWorld {
 
 > ### Day 4 - [Jump to 📂](./04_Loops/_README.md)
 - Learned about `Looping Statements` in Java.
+
+> ### Day 5 - [Jump to 📂](./05_Patterns/_README.md)
+- Learned about `Patterns` in Java.
