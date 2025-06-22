@@ -60,7 +60,7 @@
     Syntax :
         returnType functionName(dataType arg1, dataType arg2, ...);
 
-8.  Function Parameters - Parameters are the values that are passed to a function.
+8.  Function Parameters - Parameters are the inputs a function receives to perform its task.
     Syntax :
         returnType functionName(dataType arg1, dataType arg2, ...);
 
