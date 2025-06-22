@@ -31,3 +31,6 @@ public class HelloWorld {
 
 > ### Day 6 - [Jump to 📂](./06_Functions/_README.md)
 - Learned about `Functions` in Java.
+
+> ### Day 7 - [Jump to 📂](./07_AdvancePatterns/_README.md)
+- Learned about `Advance Patterns` in Java.
