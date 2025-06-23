@@ -34,3 +34,6 @@ public class HelloWorld {
 
 > ### Day 7 - [Jump to 📂](./07_AdvancePatterns/_README.md)
 - Learned about `Advance Patterns` in Java.
+
+> ### Day 8 - [Jump to 📂](./08_Arrays/_README.md)
+- Learned about `Arrays` in Java.
