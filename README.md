@@ -37,3 +37,6 @@ public class HelloWorld {
 
 > ### Day 8 - [Jump to 📂](./08_Arrays/_README.md)
 - Learned about `Arrays` in Java.
+
+> ### Day 9 - [Jump to 📂](./09_Arrays/_README.md)
+- Learned about `Arrays` (Part 2) in Java.
