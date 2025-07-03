@@ -4,7 +4,9 @@
 - `break` and `continue` Keywords
 
  1. while loop
-    syntax --> 
+
+    syntax
+
         while (condition) {
             statement1;
             ...
@@ -14,7 +16,9 @@
 
 
 2. for loop
-    syntax --> 
+    
+    syntax
+
         for (initialization; condition; update) {
             statement1;
             ...
@@ -22,7 +26,9 @@
 
 
 3. do while loop
-    syntax --> 
+    
+    syntax
+
         do {
             statement1;
             ...

@@ -4,6 +4,7 @@ Conditional Statements in Java
 
 1. if else
     syntax --> 
+
         if (condition1) {
             statement1;
             ...
@@ -20,6 +21,7 @@ Conditional Statements in Java
 
 2. else if 
     syntax --> 
+
             if (condition1) {
                 statement1;
                 ...
@@ -37,11 +39,13 @@ Conditional Statements in Java
 
 3. Ternary 
     syntax --> 
+
             (condition) ? statement1(true) : statement2(false);
 
 
 4. switch
     syntax --> 
+    
             switch (expression) {
                 case constant1:
                     statement1;

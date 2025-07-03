@@ -3,10 +3,13 @@
 - `Operators` in Java
 
 1. Arithmetic Operators
+
     a) Unary Operators
-        symbols: 
+        
+        - symbols: 
             +, -, ++(pre-increment & post-increment), --(pre-decrement & post-decrement)
-        examples :
+
+        - examples:
             +1, -1
             ++1, post-increment
             1++, pre-increment
@@ -15,9 +18,11 @@
 
 
     b) Binary Operators
-        symbols:
+
+        - symbols:
             +, -, *, /, %(modulus)
-        examples : 
+
+        - examples : 
             1 + 2 = 3
             1 - 2 = -1
             1 * 2 = 2
@@ -26,17 +31,19 @@
 
 
     c) Ternary Operator
-        symbols:
+
+        - symbols:
             ?, :
-        examples :
+
+        - examples :
             (condition) ? statement1 : statement2
 
 
 
 2. Relational Operators
-    symbols:
+    - symbols:
         ==, !=, >, <, >=, <=
-    examples :
+    - examples :
         1 == 2
         1 != 2
         1 > 2
@@ -47,9 +54,9 @@
 
 
 3. Logical Operators
-    symbols:
+    - symbols:
         &&, ||, !
-    examples :
+    - examples :
         1 > 2 && 2 > 3      --> false
         1 > 2 || 2 > 3      --> true
         !(1 > 2 && 2 > 3)   --> true
@@ -73,9 +80,9 @@
 
 
 4. Assignment Operators
-    symbols:
+    - symbols:
         =, +=, -=, *=, /=, %=, <<=, >>=, &=, ^=, |=
-    examples :
+    - examples :
         1 = 2
         1 += 2
         1 -= 2
@@ -83,7 +90,7 @@
         1 /= 2
         1 %= 2
 
-        Bitwise Assignment Operators
+        - Bitwise Assignment Operators
         1 <<= 2
         1 >>= 2
         1 &= 2
@@ -92,9 +99,9 @@
 
 
 5. Bitwise Operators
-    symbols:
+    - symbols:
         &, |, ^, ~, <<, >>
-    examples :
+    - examples :
         1 & 2
         1 | 2
         1 ^ 2
