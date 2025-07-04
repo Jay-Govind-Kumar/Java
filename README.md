@@ -40,3 +40,6 @@ public class HelloWorld {
 
 > ### Day 9 - [Jump to 📂](./09_Arrays/_README.md)
 - Learned about `Arrays` (Part 2) in Java.
+
+> ### Day 10 - [Jump to 📂](./10_Sortings/_README.md)
+- Learned about `Basic Sortings Methods` in Java.
