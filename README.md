@@ -43,3 +43,6 @@ public class HelloWorld {
 
 > ### Day 10 - [Jump to 📂](./10_Sortings/_README.md)
 - Learned about `Basic Sortings Methods` in Java.
+
+> ### Day 11 - [Jump to 📂](./11_2DArrays/_README.md)
+- Learned about `2D Arrays` in Java.
