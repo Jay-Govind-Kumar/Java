@@ -46,3 +46,6 @@ public class HelloWorld {
 
 > ### Day 11 - [Jump to 📂](./11_2DArrays/_README.md)
 - Learned about `2D Arrays` in Java.
+
+> ### Day 12 - [Jump to 📂](./12_Strings/_README.md)
+- Learned about `Strings` in Java.
