@@ -49,3 +49,6 @@ public class HelloWorld {
 
 > ### Day 12 - [Jump to 📂](./12_Strings/_README.md)
 - Learned about `Strings` in Java.
+
+> ### Day 13 - [Jump to 📂](./13_BitManipulation/_README.md)
+- Learned about `Bit Manipulation` in Java.
