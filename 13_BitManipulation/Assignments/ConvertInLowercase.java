@@ -11,3 +11,8 @@ public class ConvertInLowercase {
         sc.close();
     }
 }
+
+//   01000001 (binary for 'A' = 65)
+// | 00100000 (binary for ' ' = 32)
+// -------------
+//  01100001 (result = 97, which is 'a')
