@@ -82,3 +82,12 @@
 - It allows you to define a set of methods that must be implemented by a class.
 - It is a way to achieve abstraction.
 - It is fifth type of inheritance ( Multiple Inheritance ).
+
+10. `Keywords` :
+  - `static` :
+    - It is used to share the same variable or method of a given class.
+    - It is a way to create a global variable or method.
+  - `super` :
+    - It is used to call the constructor of the parent class.
+  - `this` :
+    - It is used to refer to the current object.
