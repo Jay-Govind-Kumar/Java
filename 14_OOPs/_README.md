@@ -91,3 +91,5 @@
     - It is used to call the constructor of the parent class.
   - `this` :
     - It is used to refer to the current object.
+  - `final` :
+    - It is used to prevent the class from being inherited. It essentially means "cannot be changed" or "cannot be extended/overridden."
