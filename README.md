@@ -61,3 +61,6 @@ public class HelloWorld {
 
 > ### Day 16 - [Jump to 📂](./16_Recursion/_README.md)
 - Learned about `Recursion` (Part 2) in Java.
+
+> ### Day 17 - [Jump to 📂](./17_Divide&Conquer/_README.md)
+- Learned about `Divide & Conquer` in Java.
