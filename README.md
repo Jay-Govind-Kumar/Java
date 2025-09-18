@@ -70,3 +70,6 @@ public class HelloWorld {
 
 > ### Day 19 - [Jump to 📂](./19_Backtracking/_README.md)
 - Learned about `Backtracking` in Java.
+
+> ### Day 20 - [Jump to 📂](./20_ArrayList/_README.md)
+- Learned about `ArrayList` in Java.
