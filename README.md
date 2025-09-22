@@ -73,3 +73,6 @@ public class HelloWorld {
 
 > ### Day 20 - [Jump to 📂](./20_ArrayList/_README.md)
 - Learned about `ArrayList` in Java.
+
+> ### Day 21 - [Jump to 📂](./21_LinkedList/_README.md)
+- Learned about `LinkedList` in Java.
