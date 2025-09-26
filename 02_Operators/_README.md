@@ -11,10 +11,10 @@
 
         - examples:
             +1, -1
-            ++1, post-increment
-            1++, pre-increment
-            --1, post-decrement
-            1--, pre-decrement
+            ++1, pre-increment
+            1++, post-increment
+            --1, pre-decrement
+            1--, post-decrement
 
 
     b) Binary Operators
