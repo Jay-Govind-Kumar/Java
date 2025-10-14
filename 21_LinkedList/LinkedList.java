@@ -203,17 +203,66 @@ public class LinkedList {
         return;
     }
 
+    // Find Mid Node - O(n) Slow and Fast approach
+    public Node findMidNode(Node head) {
+        Node slow = head;
+        Node fast = head;
+
+        while (fast != null && fast.next != null) {
+            slow = slow.next; // +1
+            fast = fast.next.next; // +2
+        }
+        return slow; // slow is my midNode
+    }
+
+    // Check Palindrome
+    public boolean isPalindrome() {
+        if (head == null || head.next == null) {
+            return true;
+        }
+
+        // step 1: find mid
+        Node mid = findMidNode(head);
+
+        // step 2: reverse 2nd half
+        Node prev = null;
+        Node curr = mid;
+        Node next;
+
+        while (curr != null) {
+            next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+
+        Node right = prev; // right half head
+        Node left = head; // left half head
+
+        // step 3: check if first half and second half are equal
+        while (right != null) {
+            if (left.data != right.data) {
+                return false;
+            }
+            left = left.next;
+            right = right.next;
+        }
+        return true;
+    }
+
     public static void main(String[] args) {
         LinkedList ll = new LinkedList();
 
         ll.addFirst(2);
         ll.addFirst(1);
-        ll.addLast(4);
-        ll.addLast(5);
+        ll.addLast(2);
+        ll.addLast(1);
         ll.addAtPosition(2, 3);
 
         ll.print();
         System.out.println(LinkedList.size);
+
+        System.out.println(ll.isPalindrome());
 
         // System.out.println(ll.removeFirst());
         // ll.print();
@@ -230,7 +279,7 @@ public class LinkedList {
         // ll.reverse();
         // ll.print();
 
-        ll.removeNthFromEnd(2);
-        ll.print();
+        // ll.removeNthFromEnd(2);
+        // ll.print();
     }
 }
