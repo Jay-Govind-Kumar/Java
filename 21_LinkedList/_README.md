@@ -28,3 +28,11 @@ public class Node {
     }
 }
 ```
+
+- Learned about some basic operations of Linked List.
+  - Add a node at the beginning of the Linked List.
+  - Add a node at the end of the Linked List.
+  - Add a node at a specific position in the Linked List.
+  - Delete a node from the Linked List.
+  - Search for a node in the Linked List.
+  - Print the Linked List.
