@@ -6,3 +6,4 @@
 - Learned about Java Collections Framework in Java.
 - Learned about Merge Sort on Linked List in Java.
 - Learned about Doubly Linked List in Java.
+- Learned about ZigZag Linked List in Java.
