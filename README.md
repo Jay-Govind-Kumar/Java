@@ -79,3 +79,6 @@ public class HelloWorld {
 
 > ### Day 22 - [Jump to 📂](./22_LinkedList/_README.md)
 - Learned about `LinkedList` (Part )  in Java.
+
+> ### Day 23 - [Jump to 📂](./23_Stack/_README.md)
+- Learned about `Stack` in Java.
