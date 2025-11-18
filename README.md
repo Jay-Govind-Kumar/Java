@@ -82,3 +82,6 @@ public class HelloWorld {
 
 > ### Day 23 - [Jump to 📂](./23_Stack/_README.md)
 - Learned about `Stack` in Java.
+
+> ### Day 24 - [Jump to 📂](./24_Stack/_README.md)
+- Learned about `Stack` (Part 2) in Java.
