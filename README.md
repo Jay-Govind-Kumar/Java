@@ -85,3 +85,6 @@ public class HelloWorld {
 
 > ### Day 24 - [Jump to 📂](./24_Stack/_README.md)
 - Learned about `Stack` (Part 2) in Java.
+
+> ### Day 25 - [Jump to 📂](./25_Queue/_README.md)
+- Learned about `Queue` in Java.
