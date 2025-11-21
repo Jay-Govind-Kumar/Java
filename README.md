@@ -88,3 +88,6 @@ public class HelloWorld {
 
 > ### Day 25 - [Jump to 📂](./25_Queue/_README.md)
 - Learned about `Queue` in Java.
+
+> ### Day 26 - [Jump to 📂](./26_Greedy/_README.md)
+- Learned about `Greedy Algorithms` in Java.
