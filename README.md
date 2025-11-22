@@ -91,3 +91,6 @@ public class HelloWorld {
 
 > ### Day 26 - [Jump to 📂](./26_Greedy/_README.md)
 - Learned about `Greedy Algorithms` in Java.
+
+> ### Day 27 - [Jump to 📂](./27_BinaryTrees/_README.md)
+- Learned about `Binary Trees` in Java.
