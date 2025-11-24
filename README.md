@@ -94,3 +94,6 @@ public class HelloWorld {
 
 > ### Day 27 - [Jump to 📂](./27_BinaryTrees/_README.md)
 - Learned about `Binary Trees` in Java.
+
+> ### Day 28 - [Jump to 📂](./27_BinaryTrees/_README.md)
+- Solve Questions on `Binary Trees` in Java.
