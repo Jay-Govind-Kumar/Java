@@ -97,3 +97,7 @@ public class HelloWorld {
 
 > ### Day 28 - [Jump to 📂](./27_BinaryTrees/_README.md)
 - Solve Questions on `Binary Trees` in Java.
+
+> ### Day 29 - [Jump to 📂](./27_BinaryTrees/_README.md)
+- Solve Questions on `Binary Trees` in Java.
+
