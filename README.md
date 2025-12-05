@@ -101,3 +101,5 @@ public class HelloWorld {
 > ### Day 29 - [Jump to 📂](./27_BinaryTrees/_README.md)
 - Solve Questions on `Binary Trees` in Java.
 
+> ### Day 30 - [Jump to 📂](./30_BinarySearchTrees/_README.md)
+- Learned about `Binary Search Trees` in Java.
