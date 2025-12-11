@@ -109,3 +109,9 @@ public class HelloWorld {
 
 > ### Day 32 - [Jump to 📂](./32_Heaps/_README.md)
 - Learned about `Heaps` in Java.
+
+> ### Day 33 - [Jump to 📂](./33_Hashing/_README.md)
+- Learned about `Hashing` in Java.
+
+> ### Day 34 - [Jump to 📂](./34_Tries/_README.md)
+- Learned about `Trie Data Structure` in Java.
