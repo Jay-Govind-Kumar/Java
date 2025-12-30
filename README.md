@@ -115,3 +115,12 @@ public class HelloWorld {
 
 > ### Day 34 - [Jump to 📂](./34_Tries/_README.md)
 - Learned about `Trie Data Structure` in Java.
+
+> ### Day 35-40 - [Jump to 📂](./35_Graphs/_README.md)
+- Learned about `Graphs` in Java.
+
+> ### Day 41-46 - [Jump to 📂](./41_DynamicProgramming/_README.md)
+- Learned about `Dynamic Programming` in Java.
+
+> ### Day 47 - [Jump to 📂](./47_SegmentTrees/_README.md)
+- Learned about `Segment Trees` in Java.
